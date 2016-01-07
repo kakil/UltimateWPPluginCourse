@@ -1,6 +1,6 @@
 # 1.   What is the problem I'm trying to solve?
 
-I'd like to build an email list of subscribers on my website.  Currently there are lots of plugins that can do this that require a third party service like MailChimp.  I don't want to have to rely on MailChimp.  The problem is there aren't any WordPress plugins, at least that I know of, that allow me to capture and store subscribers independent of a third party service.  I'd also like to reward subscribers with a reward when they opt-in, I can't find a plugin that does that.
+I'd like to build an email list of subscribers on my website.  Currently there are lots of plugins that can do this that  require a third party service like MailChimp.  I don't want to have to rely on MailChimp.  The problem is there aren't any WordPress plugins, at least that I know of, that allow me to capture and store subscribers independent of a third party service.  I'd also like to reward subscribers with a reward when they opt-in, I can't find a plugin that does that.
 
 
 # 2.  What is the solution?
